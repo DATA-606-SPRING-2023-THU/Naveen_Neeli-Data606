@@ -64,6 +64,6 @@ I would like to implement a webpage where it takes information like source and d
 I would like store my data in the S3 bucket of AWS and acces it in my python program. <br>
 
 ## Flask
-Python-based Flask is a microweb framework. <br>
+Flask is a web framework, it’s a Python module that lets you develop web applications easily. <br>
 It helps to integrate a web page(html code) to the model(python code) and allows a two way communication in this project.
 
