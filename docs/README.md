@@ -1,3 +1,3 @@
-## This folder contains draft proposal
+## This folder contains draft proposal and Final Presentation documents.
 
 
