@@ -106,6 +106,11 @@ The above image is exactly how front end page looks like. Here the source and de
 ## Conclusion:
 After detailed analysis and observation, few features were identified as the very impact features where the total amount depending on. They are "Distance", "Duration", "Day of Week" and "Hour". So these are the features to be considered when booking a taxi service to minimize the travel expenses.
 
+## Links:
+PPT: https://docs.google.com/presentation/d/1VjqU7xMqhwdApc4w-tstn-LE7akpWSk5DnynYyUA0Z8/edit?usp=sharing
+
+Youtube: https://youtu.be/YoNq_esq8y4
+
 
 
 
